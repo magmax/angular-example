@@ -11,4 +11,5 @@ In addition, this repository shows how to use [yeoman] and other tools.
 
 [AngularJS]: http://angularjs.org/
 [Bootstrap]: getbootstrap.com
+[yeoman]: http://yeoman.io/
 [You can learn the whole explanation in Spanish if you want]: http://magmax.org/2014/01/18/primeros-pasos-en-angularjs.html
